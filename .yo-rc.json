@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "iDepot",
+    "packageName": "com.iinterchange",
+    "packageFolder": "com/iinterchange",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "ZTU2MDUyNjJkNjZjNWI2OTkwMjk0NzRmYjRlMjRhNTczZmViNzdkOWVjYTkzMDQxYTA5MWI5MTE5MTlhNDdmOTBkZTU5YTNkZmFmMmFhNjgyZjcwYTE1NGZmOTRjODRhNzUyNTZiNzlhNDVjODQ1MmFmMTgxNDIyNTc5NDczNzU=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "pramodkoshy1968",
+  "repository-name": "iDepot"
+}
